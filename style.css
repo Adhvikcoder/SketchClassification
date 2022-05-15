@@ -1,0 +1,18 @@
+body{
+    background-color: darkslateblue;
+}
+
+h1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: bisque;
+background-color: black;
+}
+
+#sketch_name{
+    color: red;
+}
+
+#show_sketch{
+    float: right;
+}
+
